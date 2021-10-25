@@ -56,7 +56,7 @@ int reemplazarCaracteres(char cadena[],int tam,  char pCaracter,char sCaracter){
 
        for (int j = 0 ; j < tam; j++)
                 {
-                    if ( strcmp(cadena[i], pCaracter ==0)
+                    if ( cadena[i]==pCaracter)
                     {
                         pCaracter = sCaracter;
 

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635197638 source:c:\users\agust\desktop\programacion parcial\lopezteson.agustinezequiel.p1programacion\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1635197612 c:\users\agust\desktop\programacion parcial\lopezteson.agustinezequiel.p1programacion\parcial\funciones.h
+
